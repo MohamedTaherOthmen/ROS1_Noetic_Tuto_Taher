@@ -1,10 +1,9 @@
-<h1 align="center">SimpleCode</h1>
+<h1 align="center">SimpleCode ROS1 Package</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/simplecode?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/simplecode?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/simplecode?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/simplecode?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MohaledTaherOthmen/simplecode?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MohaledTaherOthmen/simplecode?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MohaledTaherOthmen/simplecode?color=56BEB8">
 </p>
 
 <p align="center">
@@ -13,15 +12,14 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/MohaledTaherOthmen" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+This repository contains a ROS 1 Noetic package developed as part of a training session I prepared for my fellow university students. The package is designed to provide a comprehensive introduction to the Robot Operating System (ROS) and covers fundamental concepts such as nodes, topics, services, and actions. It serves as a hands-on learning resource for students to understand and practice ROS development
 
 ## :sparkles: Features ##
 
@@ -47,7 +45,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/simplecode
+$ git clone https://github.com/MohaledTaherOthmen/simplecode
 
 # Access
 $ cd simplecode
@@ -61,12 +59,8 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/MohaledTaherOthmen" target="_blank">{{Mohamed Taher Othmen}}</a>
 
 &#xa0;
 
