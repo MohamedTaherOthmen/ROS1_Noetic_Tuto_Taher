@@ -1,0 +1,1 @@
+This repository contains a ROS 1 Noetic package developed as part of a training session I prepared for my fellow university students. The package is designed to provide a comprehensive introduction to the Robot Operating System (ROS) and covers fundamental concepts such as nodes, topics, services, and actions.
