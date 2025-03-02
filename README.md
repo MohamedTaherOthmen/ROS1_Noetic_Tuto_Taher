@@ -31,11 +31,11 @@ This repository contains a ROS 1 Noetic package developed as part of a training 
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [..](https://expo.io/)
+- [..](https://nodejs.org/en/)
+- [..](https://pt-br.reactjs.org/)
+- [..](https://reactnative.dev/)
+- [..](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -60,7 +60,7 @@ $ yarn start
 ```
 
 
-Made with :heart: by <a href="https://github.com/MohaledTaherOthmen" target="_blank">{{Mohamed Taher Othmen}}</a>
+Made with :heart: by <a href="https://github.com/MohamedTaherOthmen" target="_blank">Mohamed Taher Othmen</a>
 
 &#xa0;
 
